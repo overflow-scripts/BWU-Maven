@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72790b6c-01d6-4254-825f-1eddc669ada9" name="Changes" comment="Initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;overflow-scripts&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="aa429eeb-4739-4fc1-991f-095c75807c95" />
+        <option name="url" value="https://github.com/overflow-scripts/BWU.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2bmrau3OUcwuBbMYh0OSAK7LotK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.preview.features.used": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-20",
+    "last_opened_file_path": "C:/Users/Tom/Documents/Dropbox/Public/Workspace/Scripting/BWU - Maven",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tom\Documents\Dropbox\Public\Workspace\Scripting\BWU\Stack-ROTS\src\main\resources" />
+      <recent name="C:\Users\Tom\Documents\Dropbox\Public\Workspace\Scripting\BWU\Overflow-API-Test\src\main\java\org\overflow\test" />
+      <recent name="C:\Users\Tom\Documents\Dropbox\Public\Workspace\Scripting\BWU\Overflow-API-Test\src\main\resources" />
+      <recent name="C:\Users\Tom\Documents\Dropbox\Public\Workspace\Scripting\BWU\Overflow-API-Test" />
+      <recent name="C:\Users\Tom\Documents\Dropbox\Public\Workspace\Scripting\BWU\Overflow-API-Test\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tom\Documents\Dropbox\Public\Workspace\Scripting\BWU\Stack-Zuk\src\main\resources" />
+      <recent name="C:\Users\Tom\Documents\Dropbox\Public\Workspace\Scripting\BWU\Overflow-API-Test\src" />
+      <recent name="C:\Users\Tom\Documents\Dropbox\Public\Workspace\Scripting\BWU\Overflow-API\src\main\java\org\overflow\api\context\rs3\struct\power\prayer" />
+      <recent name="C:\Users\Tom\Documents\Dropbox\Public\Workspace\Scripting\BWU\Overflow-API\src\main\java\org\overflow\api\context\rs3\struct\power\spell" />
+      <recent name="C:\Users\Tom\Documents\Dropbox\Public\Workspace\Scripting\BWU\Stack FIghter\src\main\resources" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="org.overflow.api.tree.rs3.generic.boss.events" />
+      <recent name="org.overflow.api.tree.rs3.generic.item.loot" />
+      <recent name="org.overflow.api.context.rs3.data.power" />
+      <recent name="org.overflow.api.context.rs3.window.lang" />
+      <recent name="org.overflow.api.test.assets.powers.ability" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.overflow.api.test.assets.powers.ability" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.overflow.api.context.rs3.query.ui.dialogue" />
+      <recent name="org.overflow.test" />
+      <recent name="org.overflow.rots.ui" />
+      <recent name="org.overflow.api.context.rs3.condtion.state.local.familiar" />
+      <recent name="org.overflow.zuk.tree.ready.arena.wave.impl" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn version:display-dependency-update" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GameRegion">
+    <configuration name="AssetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.overflow.api.test.assets.AssetTest" />
+      <module name="Overflow-API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.overflow.api.test.assets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameRegion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.overflow.api.context.rs3.data.GameRegion" />
+      <module name="Overflow-API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.overflow.api.context.rs3.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.overflow.api.test.profile.ProfileTest" />
+      <module name="Overflow-API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.overflow.api.test.profile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatusGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.overflow.api.test.assets.status.StatusGenerator" />
+      <module name="Overflow-API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.overflow.api.test.assets.status.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StructReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.overflow.api.test.assets.struct.StructReview" />
+      <module name="Overflow-API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.overflow.api.test.assets.struct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameRegion" />
+        <item itemvalue="Application.AssetTest" />
+        <item itemvalue="Application.ProfileTest" />
+        <item itemvalue="Application.StructReview" />
+        <item itemvalue="Application.StatusGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72790b6c-01d6-4254-825f-1eddc669ada9" name="Changes" comment="" />
+      <created>1706831163934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706831163934</updated>
+    </task>
+    <task id="LOCAL-00015" summary="V1.0 Issue Zuk">
+      <option name="closed" value="true" />
+      <created>1718970433827</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1718970433827</updated>
+    </task>
+    <task id="LOCAL-00016" summary="V1.01 ItemDef SDN issue">
+      <option name="closed" value="true" />
+      <created>1719056925765</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1719056925765</updated>
+    </task>
+    <task id="LOCAL-00017" summary="V1.01 ItemDef SDN issue">
+      <option name="closed" value="true" />
+      <created>1719059004235</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1719059004235</updated>
+    </task>
+    <task id="LOCAL-00018" summary="V1.01 ItemDef SDN issue">
+      <option name="closed" value="true" />
+      <created>1719061845171</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1719061845171</updated>
+    </task>
+    <task id="LOCAL-00019" summary="V1.01 ItemDef SDN issue">
+      <option name="closed" value="true" />
+      <created>1719062046192</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1719062046192</updated>
+    </task>
+    <task id="LOCAL-00020" summary="V1.01 ItemDef SDN issue">
+      <option name="closed" value="true" />
+      <created>1719063770529</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1719063770529</updated>
+    </task>
+    <task id="LOCAL-00021" summary="V1.01 ItemDef SDN issue">
+      <option name="closed" value="true" />
+      <created>1719063953538</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1719063953538</updated>
+    </task>
+    <task id="LOCAL-00022" summary="V1.01 ItemDef SDN issue">
+      <option name="closed" value="true" />
+      <created>1719071306561</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1719071306561</updated>
+    </task>
+    <task id="LOCAL-00023" summary="V1.02 Various fixes for bugs.">
+      <option name="closed" value="true" />
+      <created>1719101802674</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1719101802674</updated>
+    </task>
+    <task id="LOCAL-00024" summary="V1.02 Various fixes for bugs.">
+      <option name="closed" value="true" />
+      <created>1719102847171</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1719102847171</updated>
+    </task>
+    <task id="LOCAL-00025" summary="V1.02 Various fixes for bugs.">
+      <option name="closed" value="true" />
+      <created>1719171462867</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1719171462867</updated>
+    </task>
+    <task id="LOCAL-00026" summary="V1.02 Various fixes for bugs.">
+      <option name="closed" value="true" />
+      <created>1719173758205</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1719173758205</updated>
+    </task>
+    <task id="LOCAL-00027" summary="V1.02 Various fixes for bugs.">
+      <option name="closed" value="true" />
+      <created>1719173934737</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1719173934737</updated>
+    </task>
+    <task id="LOCAL-00028" summary="V1.02 Various fixes for bugs.">
+      <option name="closed" value="true" />
+      <created>1719175555975</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1719175555975</updated>
+    </task>
+    <task id="LOCAL-00029" summary="V1.02 Various fixes for bugs.">
+      <option name="closed" value="true" />
+      <created>1719176310095</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1719176310095</updated>
+    </task>
+    <task id="LOCAL-00030" summary="V1.02 Various fixes for bugs.">
+      <option name="closed" value="true" />
+      <created>1719176361337</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1719176361337</updated>
+    </task>
+    <task id="LOCAL-00031" summary="V1.02 Various fixes for bugs.">
+      <option name="closed" value="true" />
+      <created>1719177098507</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1719177098507</updated>
+    </task>
+    <task id="LOCAL-00032" summary="V1.02 Various fixes for bugs.">
+      <option name="closed" value="true" />
+      <created>1719177283800</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1719177283800</updated>
+    </task>
+    <task id="LOCAL-00033" summary="V1.02 Various fixes for bugs.">
+      <option name="closed" value="true" />
+      <created>1719177834533</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1719177834533</updated>
+    </task>
+    <task id="LOCAL-00034" summary="V1.02 Various fixes for bugs.">
+      <option name="closed" value="true" />
+      <created>1719179313874</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1719179313874</updated>
+    </task>
+    <task id="LOCAL-00035" summary="V1.02 Various fixes for bugs.">
+      <option name="closed" value="true" />
+      <created>1719179979450</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1719179979450</updated>
+    </task>
+    <task id="LOCAL-00036" summary="V1.03 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719184639870</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1719184639870</updated>
+    </task>
+    <task id="LOCAL-00037" summary="V1.03 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719184824135</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1719184824135</updated>
+    </task>
+    <task id="LOCAL-00038" summary="V1.03 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719188831953</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1719188831953</updated>
+    </task>
+    <task id="LOCAL-00039" summary="V1.03 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719189554926</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1719189554926</updated>
+    </task>
+    <task id="LOCAL-00040" summary="V1.04 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719330337889</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1719330337889</updated>
+    </task>
+    <task id="LOCAL-00041" summary="V1.04 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719332013477</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1719332013477</updated>
+    </task>
+    <task id="LOCAL-00042" summary="V1.04 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719332266441</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1719332266441</updated>
+    </task>
+    <task id="LOCAL-00043" summary="V1.04 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719332540747</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1719332540747</updated>
+    </task>
+    <task id="LOCAL-00044" summary="V1.04 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719333474814</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1719333474814</updated>
+    </task>
+    <task id="LOCAL-00045" summary="V1.04 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719335411044</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1719335411044</updated>
+    </task>
+    <task id="LOCAL-00046" summary="V1.05 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719430462908</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1719430462908</updated>
+    </task>
+    <task id="LOCAL-00047" summary="V1.05 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719434511075</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1719434511075</updated>
+    </task>
+    <task id="LOCAL-00048" summary="V1.05 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719435745956</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1719435745956</updated>
+    </task>
+    <task id="LOCAL-00049" summary="V1.05 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719436449284</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1719436449284</updated>
+    </task>
+    <task id="LOCAL-00050" summary="V1.05 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719437196354</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1719437196355</updated>
+    </task>
+    <task id="LOCAL-00051" summary="V1.06 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719535399652</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1719535399653</updated>
+    </task>
+    <task id="LOCAL-00052" summary="V1.06 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719664679689</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1719664679689</updated>
+    </task>
+    <task id="LOCAL-00053" summary="V1.06 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719664780644</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1719664780644</updated>
+    </task>
+    <task id="LOCAL-00054" summary="V1.06 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719665278543</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1719665278543</updated>
+    </task>
+    <task id="LOCAL-00055" summary="V1.06 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719666583113</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1719666583113</updated>
+    </task>
+    <task id="LOCAL-00056" summary="V1.06 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719666680747</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1719666680747</updated>
+    </task>
+    <task id="LOCAL-00057" summary="V1.06 Various improvements.">
+      <option name="closed" value="true" />
+      <created>1719666824878</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1719666824878</updated>
+    </task>
+    <task id="LOCAL-00058" summary="V1.07 EOF Added.">
+      <option name="closed" value="true" />
+      <created>1720133658984</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1720133658985</updated>
+    </task>
+    <task id="LOCAL-00059" summary="V1.08 Tweaks">
+      <option name="closed" value="true" />
+      <created>1720369471873</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1720369471873</updated>
+    </task>
+    <task id="LOCAL-00060" summary="V1.09 Component query fixes">
+      <option name="closed" value="true" />
+      <created>1721001348100</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1721001348100</updated>
+    </task>
+    <task id="LOCAL-00061" summary="V1.09 Component query fixes">
+      <option name="closed" value="true" />
+      <created>1721003125682</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1721003125682</updated>
+    </task>
+    <task id="LOCAL-00062" summary="V1.09 Component query fixes">
+      <option name="closed" value="true" />
+      <created>1721003513607</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1721003513607</updated>
+    </task>
+    <task id="LOCAL-00063" summary="V1.09 Component query fixes">
+      <option name="closed" value="true" />
+      <created>1721003951175</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1721003951175</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="d7ec8626-dd59-4e8e-b1cf-9f233dfd18d1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="d7ec8626-dd59-4e8e-b1cf-9f233dfd18d1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/Tom/Documents/Dropbox/Public/Workspace/Scripting/BWU/Stack-Rituals" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="V1.0 Issue Fighter and Rituals" />
+    <MESSAGE value="V1.0 Issue Zuk" />
+    <MESSAGE value="V1.01 ItemDef SDN issue" />
+    <MESSAGE value="V1.02 Various fixes for bugs." />
+    <MESSAGE value="V1.03 Various improvements." />
+    <MESSAGE value="V1.04 Various improvements." />
+    <MESSAGE value="V1.05 Various improvements." />
+    <MESSAGE value="V1.06 Various improvements." />
+    <MESSAGE value="V1.07 EOF Added." />
+    <MESSAGE value="V1.08 Tweaks" />
+    <MESSAGE value="V1.09 Component query fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1.09 Component query fixes" />
+  </component>
+</project>

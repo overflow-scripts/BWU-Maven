@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Example-API/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Example-API/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MTA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MTA/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Overflow-API-Test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Overflow-API-Test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Overflow-API/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Overflow-API/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Script-Test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Script-Test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-Araxxor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-Araxxor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-Fighter-Slayer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-Fighter-Slayer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-Fighter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-Fighter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-MTA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-MTA/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-ROTS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-ROTS/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-Rituals/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-Rituals/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-Runecrafter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-Runecrafter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-Summoner/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-Summoner/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-Zuk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack-Zuk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

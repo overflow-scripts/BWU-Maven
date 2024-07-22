@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Stack-Runecrafter" />
+        <module name="Stack-Zuk" />
+        <module name="Stack-ROTS" />
+        <module name="Stack-Rituals" />
+        <module name="Stack-MTA" />
+        <module name="Overflow-API-Test" />
+        <module name="Stack-Fighter-Slayer" />
+        <module name="Stack-Araxxor" />
+        <module name="Overflow-API" />
+        <module name="Script-Test" />
+        <module name="Stack-Fighter" />
+        <module name="Example-API" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="MTA" target="20" />
+      <module name="Stack-Summoner" target="20" />
+      <module name="Stack-Test-Script" target="20" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="BWU" options="" />
+      <module name="Overflow-API" options="--enable-preview" />
+      <module name="Overflow-API-Test" options="--enable-preview" />
+      <module name="Script-Test" options="--enable-preview" />
+      <module name="Stack-Araxxor" options="--enable-preview" />
+      <module name="Stack-Fighter" options="--enable-preview" />
+      <module name="Stack-Fighter-Slayer" options="--enable-preview" />
+      <module name="Stack-MTA" options="--enable-preview" />
+      <module name="Stack-ROTS" options="--enable-preview" />
+      <module name="Stack-Rituals" options="--enable-preview" />
+      <module name="Stack-Runecrafter" options="--enable-preview" />
+      <module name="Stack-Summoner" options="--enable-preview" />
+      <module name="Stack-Test-Script" options="--enable-preview" />
+      <module name="Stack-Zuk" options="--enable-preview" />
+    </option>
+  </component>
+</project>
